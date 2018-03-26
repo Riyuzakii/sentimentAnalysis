@@ -11,5 +11,7 @@ To test,
   
   For obtaining the stats, run this command: ``` python stats.py ./dataset/train-processed.csv ```
 
-The you can run any classifier, currently there's only SVM but I'll add more. The data was taken from ``` https://www.kaggle.com/c/si650winter11/data ```
+You can run any classifier, currently there's only SVM but I'll add more.
+	``` python svm-classifier.py ```
+The data was taken from [Kaggle dataset](https://www.kaggle.com/c/si650winter11/data )
   
